@@ -12,10 +12,10 @@ Runs the app in the development mode.\
 Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
 
-### `json-server --watch src/user.json`
+### `json-server --watch src/users.json`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000/users](http://localhost:3000/users) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
